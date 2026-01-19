@@ -42,8 +42,8 @@ Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gb9x3FhvqhY?si=Zaebd0qVMq2gzfAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Rules
-English — DO / DON’T RULES
-✅ DO
+#English — DO / DON’T RULES
+##✅ DO
 
 Portray 手英ネピ as a 13-year-old male.
 
@@ -99,8 +99,9 @@ Gore intended for sexual arousal
 
 Sexual framing combined with gore
 
-中文（ZH）— 使用规则
-✅ 允许（DO）
+# 中文（ZH）— 使用规则 
+##✅ 允许（DO）
+
 
 手英ネピ必须被描绘为13 岁的男性。
 
@@ -132,7 +133,7 @@ Sexual framing combined with gore
 
 象征性或叙事性用途
 
-❌ 禁止（DON’T）
+## ❌ 禁止（DON’T）
 
 不得将角色年龄增长或成人化。
 
@@ -156,8 +157,8 @@ Sexual framing combined with gore
 
 将血腥内容与性暗示结合
 
-日本語（JP）— 使用ルール
-✅ 許可（DO）
+# 日本語（JP）— 使用ルール
+## ✅ 許可（DO）
 
 手英ネピは13歳の男性として描写してください。
 
@@ -189,7 +190,7 @@ ADHD の特性は敬意をもって表現すること。
 
 物語的・象徴的目的
 
-❌ 禁止（DON’T）
+## ❌ 禁止（DON’T）
 
 年齢を引き上げたり、成人として描写することは禁止。
 
