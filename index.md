@@ -1,5 +1,5 @@
 <img src="./logo.png" alt="Logo">
-Download latest version (OpenUTAU)
+
 
 <a href="https://github.com/linuxfandudeguy/teei-nepi/releases/latest" target="_blank">
   <img src="./svgviewer-png-output.png" 
