@@ -30,6 +30,8 @@
 
 Nepi is designed to embody a punk/scene aesthetic with a colorful and energetic appearance, matching his love for punk music and his expressive personality.
 
+His favorite food is green muscat grapes.
+
 ## Technical Details
 
 - **Voice Type:** Romanji VCV  
