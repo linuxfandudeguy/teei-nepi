@@ -7,6 +7,7 @@
        style="width: 200px; height: auto; cursor: pointer;">
 </a>
 
+He uses the reclist from felinewasteland.
 
 ## Character Bio
 
